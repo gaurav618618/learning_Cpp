@@ -1,0 +1,13 @@
+﻿  Source.cpp
+E:\Learning_C++\learning_Cpp\compiletimePolyCpp\Source.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+E:\Learning_C++\learning_Cpp\compiletimePolyCpp\Source.cpp(17): message : see reference to function template instantiation 'T mean<double>(const T *,size_t)' being compiled
+          with
+          [
+              T=double
+          ]
+E:\Learning_C++\learning_Cpp\compiletimePolyCpp\Source.cpp(11,1): warning C4267: 'return': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=char
+          ]
+  compiletimePolyCpp.vcxproj -> E:\Learning_C++\learning_Cpp\compiletimePolyCpp\Debug\compiletimePolyCpp.exe
